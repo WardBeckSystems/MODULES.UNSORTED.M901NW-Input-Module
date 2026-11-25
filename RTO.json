@@ -1,0 +1,50 @@
+{
+ "code": "M901NW",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "43 contacts, 44 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "41",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "43",
+   "signal": "ALTERNATELY AN EXTERNAL GROUND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "44",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
+ ]
+}

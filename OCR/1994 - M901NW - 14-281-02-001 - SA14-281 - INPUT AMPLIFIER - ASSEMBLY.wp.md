@@ -1,5 +1,5 @@
 # 1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp
-Wiki page: [M901NW](../../../PAGES/M901NW.md)
+Wiki page: [M901NW](../../../../PAGES/M901NW.md)
 
 
 - **Year:** 1994 (original file date 1994-10-27)
@@ -772,7 +772,7 @@ MW94001/M901NW.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M901NW/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+ "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
  "sha256": "da17633613426824a20f10d7b0dc59e6716ad1589b9b399e2ce1623eeb925a72",
  "kind": "module",
  "models": [
