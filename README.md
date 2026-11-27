@@ -1,11 +1,11 @@
-# M901NW · Unsorted
+# M901NW Input Module · Unsorted
 
 Ward-Beck Systems M901NW, 1994|27. Wiki page: [M901NW on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M901NW.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
@@ -73,7 +73,7 @@ Schematic B 14-281-02-001 Component Layout B 14-281-06-001
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i" width="240" alt="1994 - M901NW - DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE.jpg"></a><br><sub>1994|27 · DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i" width="240" alt="1994 - M901NW - DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE.jpg"></a><br><sub>1994|27 · DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE · <a href="MECHANICAL/1994%20-%20M901NW%20-%20DOC%20-%20940238-03-004%20-%20LONG%20FULL%20RAD%20SLOT%20SEE%20DEUAIL%20NOTE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## KiCad
