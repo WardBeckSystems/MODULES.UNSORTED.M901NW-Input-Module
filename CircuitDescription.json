@@ -1,0 +1,25 @@
+{
+ "module": "M901NW",
+ "source": {
+  "file": "MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "5 Parts List 5-1 to 5-10 6 P1,P2 Connector Layouts 6-1 to 6-2",
+    "7 Drawings:",
+    "Front Panel Layout A 940238-04-100 Schematic B 901-02-006/1 Schematic B 901-02-006/2 Schematic B 901-02-006/3 Component Layout B 901-06-006",
+    "ll) Subassemby",
+    "A SA14-281 Input Amplifier Assembly",
+    "1 Circuit Description 1-12 Parts List 2-1 to 2-53 Drawings:",
+    "Schematic B 14-281-02-001 Component Layout B 14-281-06-001"
+   ]
+  }
+ ]
+}
