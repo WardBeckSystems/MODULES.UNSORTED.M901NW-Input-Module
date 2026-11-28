@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 609 906" font-family="Overpass Mono, ui-monospace, monospace">
-<title>M901NW: M901NW Input Module (Renaissance), Ward-Beck Systems. Pinout from RTO.json.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474 809" font-family="Overpass Mono, Consolas, ui-monospace, monospace">
+<title>M901NW Input Module: symbol</title>
 <rect width="100%" height="100%" fill="#ffffff"/>
-<rect x="240.8" y="203.2" width="203.2" height="457.2" fill="#F5ECDB" stroke="#6B4E16" stroke-width="2.5"/>
-<line x1="164.6" y1="228.6" x2="240.8" y2="228.6" stroke="#555555" stroke-width="2"/>
-<circle cx="164.6" cy="228.6" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
-<text x="248.4" y="228.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">A</text>
-<text x="202.7" y="224.6" font-size="10" text-anchor="middle" fill="#555555">P2-41</text>
-<line x1="164.6" y1="254.0" x2="240.8" y2="254.0" stroke="#555555" stroke-width="2"/>
-<circle cx="164.6" cy="254.0" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
-<text x="248.4" y="254.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">B</text>
-<text x="202.7" y="250.0" font-size="10" text-anchor="middle" fill="#555555">P2-44</text>
-<line x1="342.4" y1="736.6" x2="342.4" y2="660.4" stroke="#333333" stroke-width="2"/>
-<circle cx="342.4" cy="736.6" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
-<text x="342.4" y="652.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 342.4 652.8)">ALTERNATELY-AN-EXTERNAL-GROUND</text>
-<text x="338.4" y="698.5" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 338.4 698.5)">43</text>
-<text x="342.4" y="101.6" font-size="14" font-weight="700" text-anchor="middle" fill="#6B4E16">M901NW</text>
-<text x="342.4" y="804.0" font-size="11" text-anchor="middle" fill="#6d6a63">Renaissance · RTO-144 · Ward-Beck Systems</text>
+<rect x="135.2" y="157.9" width="203.2" height="457.2" fill="#F5ECDB" stroke="#6B4E16" stroke-width="3.00"/>
+<line x1="59.0" y1="183.3" x2="135.2" y2="183.3" stroke="#555555" stroke-width="2.50"/>
+<circle cx="59.0" cy="183.3" r="3.5" fill="#ffffff" stroke="#555555" stroke-width="1.50"/>
+<text x="142.8" y="183.3" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">A</text>
+<text x="97.1" y="174.3" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#555555">P2-41</text>
+<line x1="59.0" y1="208.7" x2="135.2" y2="208.7" stroke="#555555" stroke-width="2.50"/>
+<circle cx="59.0" cy="208.7" r="3.5" fill="#ffffff" stroke="#555555" stroke-width="1.50"/>
+<text x="142.8" y="208.7" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">B</text>
+<text x="97.1" y="199.7" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#555555">P2-44</text>
+<line x1="236.8" y1="691.2" x2="236.8" y2="615.1" stroke="#333333" stroke-width="2.50"/>
+<circle cx="236.8" cy="691.2" r="3.5" fill="#ffffff" stroke="#333333" stroke-width="1.50"/>
+<text x="236.8" y="607.4" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C" transform="rotate(-90 236.8 607.4)">ALTERNATELY-AN-EXTERNAL-GROUND</text>
+<text x="227.8" y="653.1" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#333333" transform="rotate(-90 227.8 653.1)">43</text>
+<text x="236.8" y="56.2" font-size="26.0" dominant-baseline="middle" text-anchor="middle" fill="#6B4E16" font-weight="700">M901NW</text>
+<text x="236.8" y="758.7" font-size="16.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63">Renaissance · RTO-144 · Ward-Beck Systems</text>
 </svg>
