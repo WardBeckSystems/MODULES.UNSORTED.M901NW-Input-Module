@@ -76,6 +76,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gEpqbgBnRbQnPGjmpoy0P4_UdOUFgI_i" width="240" alt="1994 - M901NW - DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE.jpg"></a><br><sub>1994|27 · DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE · <a href="MECHANICAL/1994%20-%20M901NW%20-%20DOC%20-%20940238-03-004%20-%20LONG%20FULL%20RAD%20SLOT%20SEE%20DEUAIL%20NOTE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M901NW.stl`](MECHANICAL/M901NW.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M901NW)
+
+- **Size:** 38 × 410 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 16.2" high x 6.6" deep. (38 mm x 410 mm x 168 mm).)
+- **From the drawing:** 21 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M901NW - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M901NW.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
