@@ -7,44 +7,38 @@
  "verified": null,
  "derived": true,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "41",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "43",
-   "signal": "ALTERNATELY AN EXTERNAL GROUND",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "44",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "43",
+   "signal": "ALTERNATELY AN EXTERNAL GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "41",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "44",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M901NW.pins.json"
+ }
 }
