@@ -16,7 +16,7 @@
    "polarity": null,
    "confidence": "low",
    "read_from": "schematic",
-   "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
    "page": 1
   },
   {
@@ -27,7 +27,7 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
    "page": 1
   },
   {
@@ -38,13 +38,13 @@
    "polarity": null,
    "confidence": "low",
    "read_from": "schematic",
-   "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "file": "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
    "page": 1
   }
  ],
  "straps": [],
  "power": [],
  "sources": [
-  "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
+  "Modules/RENAISSANCE/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
  ]
 }

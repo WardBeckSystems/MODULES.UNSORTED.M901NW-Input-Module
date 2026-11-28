@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M901NW",
- "repo": "MODULES.UNSORTED.M901NW-Input-Module",
+ "repo": "MODULES.RENAISSANCE.M901NW-Input-Module",
  "title": "Input Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
